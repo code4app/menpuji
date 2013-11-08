@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1DC986C-D4BC-478F-9E9C-9F2609BEBF97</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MenpujiOffice</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>00D2C104-E3C1-4789-ADEC-2C5AED33767D</key>
+		<string>https://github.com/code4app/menpuji.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>office/platforms/ios/MenpujiOffice.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>00D2C104-E3C1-4789-ADEC-2C5AED33767D</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/code4app/menpuji.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>00D2C104-E3C1-4789-ADEC-2C5AED33767D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>00D2C104-E3C1-4789-ADEC-2C5AED33767D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>menpuji</string>
+		</dict>
+	</array>
+</dict>
+</plist>
